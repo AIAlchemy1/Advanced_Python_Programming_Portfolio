@@ -1,4 +1,4 @@
-# Python-Programming-Advanced
+# Advanced Python Programming Portfolio
 
 Welcome to my GitHub repository showcasing my advanced Python programming skills, particularly in the areas of Data Science, Visualization, and Exploratory Data Analysis. Here, you'll find various projects covering diverse application cases, demonstrating my proficiency in handling real-world scenarios.
 
