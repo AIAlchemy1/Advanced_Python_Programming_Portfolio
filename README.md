@@ -49,8 +49,11 @@ To run any of the projects, follow these steps:
    git clone https://github.com/e-abtahi/advanced-python-portfolio.git
 
 2. Navigate to the project directory:
-   
+
+   ```bash
    cd advanced-python-portfolio/project-name
 
 3. Run the project:
+
+   ```bash
    python main.py
